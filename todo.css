@@ -1,0 +1,176 @@
+.todo {
+    width: 100%;
+    height: 150vh;
+    background-color: rgb(228, 225, 225);
+}
+body {
+    margin: 0px;
+}
+.head {
+    background-color: white;
+    height: 50px;
+    font-size: 30px;
+    padding-left: 60px;
+}
+.material-icons {
+    color: rgb(93, 173, 254);
+    font-size: 40px !important;
+    position: relative;
+    top: 12px;
+}
+.add {
+    text-decoration: none;
+    color: black ;
+    font-size: 20px;
+    position: relative;
+    left: 850px;
+}
+.add1 {
+    width: 350px;
+    height: 170px;
+    background-color: white;
+    border-radius: 7px;
+    position: fixed;
+    left: 350px;
+    top: 150px;
+}
+.add2 {
+    font-size: 20px;
+    padding-left: 20px;
+    position: relative;
+    top: 7px;
+}
+.add3 {
+    background-color: rgb(200, 197, 197);
+}
+.frame {
+    width: 100%;
+    height: 100vh;
+    filter: opacity(30%);
+}
+.flexcon {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.flex {
+    width: 220px;
+    height: 250px;
+    background-color: white;
+    border-radius: 7px;
+}
+.trip {
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 25px;
+    padding-left: 10px;
+    position: relative;
+    top: 10px;
+}
+.flex1 {
+    width: 220px;
+    height: 250px;
+    background-color: white;
+    border-radius: 7px;
+}
+.trip1 {
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 25px;
+    padding-left: 10px;
+    position: relative;
+    top: 10px;
+}
+.flex2 {
+    width: 220px;
+    height: 250px;
+    background-color: white;
+    border-radius: 7px;
+}
+.trip2 {
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 25px;
+    padding-left: 10px;
+    position: relative;
+    top: 10px;
+}
+.flexcon1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.flex3 {
+    width: 220px;
+    height: 250px;
+    background-color: white;
+    border-radius: 7px;
+}
+.trip3 {
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 18px;
+    padding-left: 10px;
+    position: relative;
+    top: 10px;
+}
+.flex4 {
+    width: 220px;
+    height: 250px;
+    background-color: white;
+    border-radius: 7px;
+}
+.trip4 {
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 25px;
+    padding-left: 10px;
+    position: relative;
+    top: 10px;
+}
+.flex5 {
+    width: 220px;
+    height: 250px;
+}
+.td {
+    width: 100%;
+    height: 150vh;
+    background-color: rgb(228, 225, 225);
+}
+.head1 {
+    background-color: white;
+    height: 50px;
+    font-size: 30px;
+    padding-left: 60px;
+}
+.ad {
+    background-color: rgb(200, 197, 197);
+}
+.ad1 {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 400px;
+}
+.ad2 {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 500px;
+}
+.tp {
+    width: 300px;
+    height: 250px;
+    background-color: white;
+    border-radius: 7px;
+    position: relative;
+    left: 400px;
+}
+.trip11 {
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 25px;
+    padding-left: 60px;
+    position: relative;
+    top: 10px;
+}
