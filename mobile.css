@@ -1,0 +1,204 @@
+
+.mobile {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(228, 225, 225);
+}
+body {
+    margin: 0px;
+}
+.head {
+    background-color: white;
+    height: 50px;
+    font-size: 40px;
+}
+.test1 {
+    font-size: 40px !important;
+    position: relative;
+    left: 220px;
+}
+.test2 {
+    font-size: 25px !important;
+    color: rgb(177, 174, 174);
+}
+.span {
+    color: rgb(177, 174, 174);
+    font-size: 17px;
+    position: relative;
+    bottom: 5px;
+}
+.input {
+    width: 20px;
+    height: 20px;
+}
+
+.span1 {
+    font-size: 17px;
+    position: relative; 
+    bottom: 5px
+}
+.flexcon {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: space-between;
+    padding: 2rem;
+}
+.flex {
+    width: 280px;
+    height: 250px;
+    background-color: white;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.trip {
+    font-size: 20px;
+    color: dodgerblue;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+}
+.flexcon1 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.flex2 {
+    width: 380px;
+    height: 250px;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid lightgray;
+    position: relative;
+    bottom: 248vh;
+}
+.span2 {
+    font-size: 18px;
+    padding-left: 10px;
+}
+.test3 {
+    color: rgb(177, 174, 174);
+    padding-left: 190px;
+    padding-top: 25px;
+}
+.input1 {
+    background-color: lavender;
+    margin-left: 30px;
+}
+.iframe {
+    width: 100%;
+    height: 300vh;
+    opacity: 40%;
+    position: static;
+}
+.flexcon2 {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(228, 225, 225);
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.head1 {
+    font-size: 40px;
+    background-color: white;
+    width: 100%;
+    height: 50px;
+    position: static;
+}
+.ad1 {
+    text-decoration: none;
+    font-size: 16px;
+}
+.ad2 {
+    color: blue;
+    padding-left: 90px;
+}
+.test4 {
+    font-size: 30px;
+    color: black;
+}
+.test5 {
+    font-size: 30px;
+}
+.flex3 {
+    width: 250px;
+    height: 270px;
+    background-color: white;
+}
+.trip1 {
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 20px;
+   position: relative;
+   top: 10px;
+}
+.flexcon1 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+.iframe1 {
+    width: 100%;
+    height: 100vh;
+    opacity: 30%;
+    position: static; 
+}
+.flex4 {
+    width: 380px;
+    height: 250px;
+    background-color: white;
+    border-radius: 8px;
+    border: 1px solid lightgray;
+    position: relative;
+    bottom: 300px;
+    left: 50px;
+}
+.span3 {
+    font-size: 18px;
+    padding-left: 10px;
+}
+.test6 {
+    color: rgb(177, 174, 174);
+    padding-left: 190px;
+    padding-top: 25px;
+}
+.input2{
+    background-color: lavender;
+    margin-left: 30px;
+}
+@media (max-width:600px) {
+    .flexcon {
+        flex-flow: row wrap;
+        align-items: center;
+    }
+    .head {
+        padding-left: 80px;
+    }
+    .test1 {
+        padding-left: 10px;
+    }
+    .flex {
+        width: 350px;
+        height: 380px;
+    }
+    .flexcon1 {
+        flex-flow: column wrap;
+        align-items: center;
+   }
+   .flexcon2 {
+    flex-flow: column wrap;
+    align-items: center;
+   }
+   .head1 {
+    text-align: center;
+   }
+   .flexcon3 {
+    flex-flow: column wrap;
+    align-items: center;
+   }
+   
+}
